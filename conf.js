@@ -1,5 +1,4 @@
 exports.config = {
-
     directConnect : true,
     baseUrl:'https://chercher.tech/protractor/handle-browser-windows-protractor',
     chromeDriver : './Drivers/chromedriver.exe',
