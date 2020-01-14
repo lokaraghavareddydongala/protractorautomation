@@ -6,7 +6,6 @@ export class HomePagePO{
 
     public clickMediaCentre(){
         this.mediaCentre.click()
-
     }
     public clickSignIn(){
         this.signIn.click()
