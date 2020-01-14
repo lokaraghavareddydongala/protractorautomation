@@ -1,6 +1,6 @@
 exports.config = {
     directConnect : true,
-    baseUrl:'https://chercher.tech/protractor/handle-browser-windows-protractor',
+    baseUrl:'https://www.tvlicensing.co.uk',
     chromeDriver : './Drivers/chromedriver.exe',
     geckoDriver: './Drivers/geckodriver.exe',
     capabilities:{
@@ -23,7 +23,7 @@ exports.config = {
         defaultTimeoutInterval: 200000,    
     },
     suites:{
-        smoke:'./JSFilesLocation/Specs/WindowsHandling.js',
+        smoke:'./JSFilesLocation/Specs/Waits.js',
         full:'./JSFilesLocation/Specs/*.js'
     }, 
     suite: 'smoke',
