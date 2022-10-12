@@ -15,7 +15,7 @@
     "@types/jasmine": "3.5.0",
     "@types/node": "13.1.6",
     "protractor-html-reporter-2": "^1.0.4",
-    "jasmine-reporters": "^2.3.2",
+    "jasmine-reporters": "^2.5.0",
     "jasmine2-protractor-utils": "^1.3.0",
     "exceljs": "^1.12.1",
     "papaparse": "^5.0.0",
